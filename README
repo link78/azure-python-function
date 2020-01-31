@@ -1,0 +1,1 @@
+This bash script create a pyhton virtual environment, create azure python using func,create resource group, storage account and deploy it on functionapp with linux os. This script will run the whole thing for you but first make sure to install azure func.
